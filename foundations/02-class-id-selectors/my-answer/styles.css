@@ -1,0 +1,19 @@
+.paragraph {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: palevioletred;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#id-one {
+    color: blue;
+    font-size: 36px;
+}
+
+#id-two {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
